@@ -2,7 +2,7 @@
 
 Software developer, AI model evaluator, and founder of **[Local Flyer Ads](https://localflyerads.com)**, a Connecticut digital screen advertising network.
 
-**Website:** [tonycantave.lovable.app](https://tonycantave.lovable.app)  
+**Website:** [tonycantave.com](https://tonycantave.com)  
 **LinkedIn:** [linkedin.com/in/tonyscantave](https://www.linkedin.com/in/tonyscantave)  
 **Email:** tcantave@localflyerads.com
 
@@ -29,6 +29,6 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
-* [Why Digital Screens Beat Paper Flyers for Connecticut Small Businesses](https://tonycantave.lovable.app/blog/why-digital-screens-beat-paper-flyers)
-* [What I Learned Evaluating AI Image, Video and Audio Models](https://tonycantave.lovable.app/blog/what-i-learned-evaluating-ai-models)
-* [Building a Local Screen Ad Network in Connecticut From Scratch](https://tonycantave.lovable.app/blog/building-a-screen-ad-network-in-connecticut)
+* [Why Digital Screens Beat Paper Flyers for Connecticut Small Businesses](https://tonycantave.com/blog/why-digital-screens-beat-paper-flyers)
+* [What I Learned Evaluating AI Image, Video and Audio Models](https://tonycantave.com/blog/what-i-learned-evaluating-ai-models)
+* [Building a Local Screen Ad Network in Connecticut From Scratch](https://tonycantave.com/blog/building-a-screen-ad-network-in-connecticut)
