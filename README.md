@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [How I Validate CSV Data With Python Before It Causes Problems](https://tonycantave.com/blog/validating-csv-data-with-python)
 * [Why Digital Screens Beat Paper Flyers for Connecticut Small Businesses](https://tonycantave.com/blog/why-digital-screens-beat-paper-flyers)
 * [What I Learned Evaluating AI Image, Video and Audio Models](https://tonycantave.com/blog/what-i-learned-evaluating-ai-models)
 * [Building a Local Screen Ad Network in Connecticut From Scratch](https://tonycantave.com/blog/building-a-screen-ad-network-in-connecticut)
