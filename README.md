@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [What Logistics and Manufacturing Taught Me About Building Software](https://tonycantave.com/blog/what-logistics-taught-me-about-building-software)
 * [How I Validate CSV Data With Python Before It Causes Problems](https://tonycantave.com/blog/validating-csv-data-with-python)
 * [Why Digital Screens Beat Paper Flyers for Connecticut Small Businesses](https://tonycantave.com/blog/why-digital-screens-beat-paper-flyers)
 * [What I Learned Evaluating AI Image, Video and Audio Models](https://tonycantave.com/blog/what-i-learned-evaluating-ai-models)
