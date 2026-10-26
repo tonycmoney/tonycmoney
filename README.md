@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [How I Write Prompts That Give Consistent Results](https://tonycantave.com/blog/how-i-write-prompts-that-give-consistent-results)
 * [A Google Business Profile Checklist for Connecticut Small Businesses](https://tonycantave.com/blog/google-business-profile-checklist-connecticut)
 * [What Logistics and Manufacturing Taught Me About Building Software](https://tonycantave.com/blog/what-logistics-taught-me-about-building-software)
 * [How I Validate CSV Data With Python Before It Causes Problems](https://tonycantave.com/blog/validating-csv-data-with-python)
