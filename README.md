@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [My CompTIA Network+ Notes on Subnetting Without the Headache](https://tonycantave.com/blog/comptia-network-plus-subnetting-notes)
 * [How I Write Prompts That Give Consistent Results](https://tonycantave.com/blog/how-i-write-prompts-that-give-consistent-results)
 * [A Google Business Profile Checklist for Connecticut Small Businesses](https://tonycantave.com/blog/google-business-profile-checklist-connecticut)
 * [What Logistics and Manufacturing Taught Me About Building Software](https://tonycantave.com/blog/what-logistics-taught-me-about-building-software)
