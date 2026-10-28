@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [How I Automate Repetitive File Tasks With a Small Python Script](https://tonycantave.com/blog/automate-repetitive-file-tasks-with-python)
 * [My CompTIA Network+ Notes on Subnetting Without the Headache](https://tonycantave.com/blog/comptia-network-plus-subnetting-notes)
 * [How I Write Prompts That Give Consistent Results](https://tonycantave.com/blog/how-i-write-prompts-that-give-consistent-results)
 * [A Google Business Profile Checklist for Connecticut Small Businesses](https://tonycantave.com/blog/google-business-profile-checklist-connecticut)
