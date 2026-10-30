@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [My CompTIA Security+ Notes on Authentication, Authorization and Accounting](https://tonycantave.com/blog/comptia-security-plus-aaa-notes)
 * [How to Build a Simple Home Lab for Networking Practice](https://tonycantave.com/blog/simple-home-lab-for-networking-practice)
 * [How I Automate Repetitive File Tasks With a Small Python Script](https://tonycantave.com/blog/automate-repetitive-file-tasks-with-python)
 * [My CompTIA Network+ Notes on Subnetting Without the Headache](https://tonycantave.com/blog/comptia-network-plus-subnetting-notes)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [How I Validate CSV Data With Python Before It Causes Problems](https://tonycantave.com/blog/validating-csv-data-with-python)
 * [Why Digital Screens Beat Paper Flyers for Connecticut Small Businesses](https://tonycantave.com/blog/why-digital-screens-beat-paper-flyers)
 * [What I Learned Evaluating AI Image, Video and Audio Models](https://tonycantave.com/blog/what-i-learned-evaluating-ai-models)
-* [Building a Local Screen Ad Network in Connecticut From Scratch](https://tonycantave.com/blog/building-a-screen-ad-network-in-connecticut)
