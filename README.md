@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [How to Design a Local Ad People Can Read in Five Seconds](https://tonycantave.com/blog/design-a-local-ad-people-can-read-in-five-seconds)
 * [How I Call REST APIs From Python Without Getting Burned](https://tonycantave.com/blog/calling-rest-apis-from-python-safely)
 * [My CompTIA Security+ Notes on Authentication, Authorization and Accounting](https://tonycantave.com/blog/comptia-security-plus-aaa-notes)
 * [How to Build a Simple Home Lab for Networking Practice](https://tonycantave.com/blog/simple-home-lab-for-networking-practice)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [A Google Business Profile Checklist for Connecticut Small Businesses](https://tonycantave.com/blog/google-business-profile-checklist-connecticut)
 * [What Logistics and Manufacturing Taught Me About Building Software](https://tonycantave.com/blog/what-logistics-taught-me-about-building-software)
 * [How I Validate CSV Data With Python Before It Causes Problems](https://tonycantave.com/blog/validating-csv-data-with-python)
-* [Why Digital Screens Beat Paper Flyers for Connecticut Small Businesses](https://tonycantave.com/blog/why-digital-screens-beat-paper-flyers)
