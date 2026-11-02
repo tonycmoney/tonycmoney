@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [My CompTIA CySA+ Notes on Reading Logs Without Drowning in Them](https://tonycantave.com/blog/comptia-cysa-plus-log-analysis-notes)
 * [How to Design a Local Ad People Can Read in Five Seconds](https://tonycantave.com/blog/design-a-local-ad-people-can-read-in-five-seconds)
 * [How I Call REST APIs From Python Without Getting Burned](https://tonycantave.com/blog/calling-rest-apis-from-python-safely)
 * [My CompTIA Security+ Notes on Authentication, Authorization and Accounting](https://tonycantave.com/blog/comptia-security-plus-aaa-notes)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [How I Write Prompts That Give Consistent Results](https://tonycantave.com/blog/how-i-write-prompts-that-give-consistent-results)
 * [A Google Business Profile Checklist for Connecticut Small Businesses](https://tonycantave.com/blog/google-business-profile-checklist-connecticut)
 * [What Logistics and Manufacturing Taught Me About Building Software](https://tonycantave.com/blog/what-logistics-taught-me-about-building-software)
-* [How I Validate CSV Data With Python Before It Causes Problems](https://tonycantave.com/blog/validating-csv-data-with-python)
