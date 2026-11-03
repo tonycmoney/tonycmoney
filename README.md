@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [Five SQL Queries That Answer Real Small Business Questions](https://tonycantave.com/blog/five-sql-queries-for-small-business-questions)
 * [My CompTIA CySA+ Notes on Reading Logs Without Drowning in Them](https://tonycantave.com/blog/comptia-cysa-plus-log-analysis-notes)
 * [How to Design a Local Ad People Can Read in Five Seconds](https://tonycantave.com/blog/design-a-local-ad-people-can-read-in-five-seconds)
 * [How I Call REST APIs From Python Without Getting Burned](https://tonycantave.com/blog/calling-rest-apis-from-python-safely)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [My CompTIA Network+ Notes on Subnetting Without the Headache](https://tonycantave.com/blog/comptia-network-plus-subnetting-notes)
 * [How I Write Prompts That Give Consistent Results](https://tonycantave.com/blog/how-i-write-prompts-that-give-consistent-results)
 * [A Google Business Profile Checklist for Connecticut Small Businesses](https://tonycantave.com/blog/google-business-profile-checklist-connecticut)
-* [What Logistics and Manufacturing Taught Me About Building Software](https://tonycantave.com/blog/what-logistics-taught-me-about-building-software)
