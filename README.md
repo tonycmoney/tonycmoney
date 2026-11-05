@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [How I Write Small Tests for Python Scripts](https://tonycantave.com/blog/writing-small-tests-for-python-scripts)
 * [A One Hour Weekly Marketing Routine for Connecticut Small Businesses](https://tonycantave.com/blog/weekly-marketing-routine-for-connecticut-small-businesses)
 * [Five SQL Queries That Answer Real Small Business Questions](https://tonycantave.com/blog/five-sql-queries-for-small-business-questions)
 * [My CompTIA CySA+ Notes on Reading Logs Without Drowning in Them](https://tonycantave.com/blog/comptia-cysa-plus-log-analysis-notes)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [How to Build a Simple Home Lab for Networking Practice](https://tonycantave.com/blog/simple-home-lab-for-networking-practice)
 * [How I Automate Repetitive File Tasks With a Small Python Script](https://tonycantave.com/blog/automate-repetitive-file-tasks-with-python)
 * [My CompTIA Network+ Notes on Subnetting Without the Headache](https://tonycantave.com/blog/comptia-network-plus-subnetting-notes)
-* [How I Write Prompts That Give Consistent Results](https://tonycantave.com/blog/how-i-write-prompts-that-give-consistent-results)
