@@ -14,7 +14,7 @@ Software developer, AI model evaluator, and founder of **[Local Flyer Ads](https
 
 ## Background
 
-More than 15 years building, automating and supporting systems in regulated industries: medical courier route operations for the Yale hospital network, ERP and SAP integration in manufacturing, cleanroom equipment diagnostics, and fleet logistics.
+More than 15 years building, automating and supporting systems in regulated industries: regional delivery and logistics operations and dispatch, ERP and SAP integration in manufacturing, cleanroom equipment diagnostics, and fleet logistics.
 
 ## Skills
 
@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [How I Use Git on Small Solo Projects](https://tonycantave.com/blog/using-git-on-small-solo-projects)
 * [How I Write Small Tests for Python Scripts](https://tonycantave.com/blog/writing-small-tests-for-python-scripts)
 * [A One Hour Weekly Marketing Routine for Connecticut Small Businesses](https://tonycantave.com/blog/weekly-marketing-routine-for-connecticut-small-businesses)
 * [Five SQL Queries That Answer Real Small Business Questions](https://tonycantave.com/blog/five-sql-queries-for-small-business-questions)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [My CompTIA Security+ Notes on Authentication, Authorization and Accounting](https://tonycantave.com/blog/comptia-security-plus-aaa-notes)
 * [How to Build a Simple Home Lab for Networking Practice](https://tonycantave.com/blog/simple-home-lab-for-networking-practice)
 * [How I Automate Repetitive File Tasks With a Small Python Script](https://tonycantave.com/blog/automate-repetitive-file-tasks-with-python)
-* [My CompTIA Network+ Notes on Subnetting Without the Headache](https://tonycantave.com/blog/comptia-network-plus-subnetting-notes)
