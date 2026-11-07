@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [What New Haven's Neighborhood Business Corridors Teach About Local Marketing](https://tonycantave.com/blog/new-haven-neighborhood-business-corridors)
 * [How I Use Git on Small Solo Projects](https://tonycantave.com/blog/using-git-on-small-solo-projects)
 * [How I Write Small Tests for Python Scripts](https://tonycantave.com/blog/writing-small-tests-for-python-scripts)
 * [A One Hour Weekly Marketing Routine for Connecticut Small Businesses](https://tonycantave.com/blog/weekly-marketing-routine-for-connecticut-small-businesses)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [How I Call REST APIs From Python Without Getting Burned](https://tonycantave.com/blog/calling-rest-apis-from-python-safely)
 * [My CompTIA Security+ Notes on Authentication, Authorization and Accounting](https://tonycantave.com/blog/comptia-security-plus-aaa-notes)
 * [How to Build a Simple Home Lab for Networking Practice](https://tonycantave.com/blog/simple-home-lab-for-networking-practice)
-* [How I Automate Repetitive File Tasks With a Small Python Script](https://tonycantave.com/blog/automate-repetitive-file-tasks-with-python)
