@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [Using the CompTIA A+ Troubleshooting Method on Software Bugs](https://tonycantave.com/blog/comptia-a-plus-troubleshooting-method-for-software-bugs)
 * [What New Haven's Neighborhood Business Corridors Teach About Local Marketing](https://tonycantave.com/blog/new-haven-neighborhood-business-corridors)
 * [How I Use Git on Small Solo Projects](https://tonycantave.com/blog/using-git-on-small-solo-projects)
 * [How I Write Small Tests for Python Scripts](https://tonycantave.com/blog/writing-small-tests-for-python-scripts)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [How to Design a Local Ad People Can Read in Five Seconds](https://tonycantave.com/blog/design-a-local-ad-people-can-read-in-five-seconds)
 * [How I Call REST APIs From Python Without Getting Burned](https://tonycantave.com/blog/calling-rest-apis-from-python-safely)
 * [My CompTIA Security+ Notes on Authentication, Authorization and Accounting](https://tonycantave.com/blog/comptia-security-plus-aaa-notes)
-* [How to Build a Simple Home Lab for Networking Practice](https://tonycantave.com/blog/simple-home-lab-for-networking-practice)
