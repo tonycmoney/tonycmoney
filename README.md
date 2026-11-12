@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [How Python pathlib Made My File Scripts Easier to Read](https://tonycantave.com/blog/python-pathlib-for-file-scripts)
 * [How Python Dataclasses Keep My Small Scripts Organized](https://tonycantave.com/blog/python-dataclasses-for-small-scripts)
 * [My CompTIA Cloud+ Notes on Backups, Snapshots and Recovery Objectives](https://tonycantave.com/blog/comptia-cloud-plus-backup-and-recovery-notes)
 * [Using the CompTIA A+ Troubleshooting Method on Software Bugs](https://tonycantave.com/blog/comptia-a-plus-troubleshooting-method-for-software-bugs)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [A One Hour Weekly Marketing Routine for Connecticut Small Businesses](https://tonycantave.com/blog/weekly-marketing-routine-for-connecticut-small-businesses)
 * [Five SQL Queries That Answer Real Small Business Questions](https://tonycantave.com/blog/five-sql-queries-for-small-business-questions)
 * [My CompTIA CySA+ Notes on Reading Logs Without Drowning in Them](https://tonycantave.com/blog/comptia-cysa-plus-log-analysis-notes)
-* [How to Design a Local Ad People Can Read in Five Seconds](https://tonycantave.com/blog/design-a-local-ad-people-can-read-in-five-seconds)
