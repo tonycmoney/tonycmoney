@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [Counting Things Fast with Python's Counter and defaultdict](https://tonycantave.com/blog/python-counter-defaultdict)
 * [How I Validate Form Input in Plain JavaScript Before It Reaches the Server](https://tonycantave.com/blog/javascript-form-validation)
 * [How I Handle JSON Config Files in Python Without Breaking My Scripts](https://tonycantave.com/blog/python-json-config-files)
 * [How I Use Python's sqlite3 Module to Keep Small Script Data Organized](https://tonycantave.com/blog/python-sqlite3-for-small-scripts)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [Using the CompTIA A+ Troubleshooting Method on Software Bugs](https://tonycantave.com/blog/comptia-a-plus-troubleshooting-method-for-software-bugs)
 * [What New Haven's Neighborhood Business Corridors Teach About Local Marketing](https://tonycantave.com/blog/new-haven-neighborhood-business-corridors)
 * [How I Use Git on Small Solo Projects](https://tonycantave.com/blog/using-git-on-small-solo-projects)
-* [How I Write Small Tests for Python Scripts](https://tonycantave.com/blog/writing-small-tests-for-python-scripts)
