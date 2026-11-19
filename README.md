@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [My CompTIA Network+ Notes on Troubleshooting DNS and DHCP](https://tonycantave.com/blog/network-plus-dns-dhcp-troubleshooting)
 * [How I Turn Gut Feelings About AI Output Into a Scoring Rubric](https://tonycantave.com/blog/scoring-ai-output-with-rubrics)
 * [Counting Things Fast with Python's Counter and defaultdict](https://tonycantave.com/blog/python-counter-defaultdict)
 * [How I Validate Form Input in Plain JavaScript Before It Reaches the Server](https://tonycantave.com/blog/javascript-form-validation)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [How Python Dataclasses Keep My Small Scripts Organized](https://tonycantave.com/blog/python-dataclasses-for-small-scripts)
 * [My CompTIA Cloud+ Notes on Backups, Snapshots and Recovery Objectives](https://tonycantave.com/blog/comptia-cloud-plus-backup-and-recovery-notes)
 * [Using the CompTIA A+ Troubleshooting Method on Software Bugs](https://tonycantave.com/blog/comptia-a-plus-troubleshooting-method-for-software-bugs)
-* [What New Haven's Neighborhood Business Corridors Teach About Local Marketing](https://tonycantave.com/blog/new-haven-neighborhood-business-corridors)
