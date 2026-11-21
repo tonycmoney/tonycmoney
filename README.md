@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [A One Week Small Business Saturday Plan for Connecticut Shops](https://tonycantave.com/blog/small-business-saturday-plan-connecticut)
 * [How I Use Python Generators to Process Big Files Without Running Out of Memory](https://tonycantave.com/blog/python-generators-large-files)
 * [My CompTIA Network+ Notes on Troubleshooting DNS and DHCP](https://tonycantave.com/blog/network-plus-dns-dhcp-troubleshooting)
 * [How I Turn Gut Feelings About AI Output Into a Scoring Rubric](https://tonycantave.com/blog/scoring-ai-output-with-rubrics)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [How I Use Python's sqlite3 Module to Keep Small Script Data Organized](https://tonycantave.com/blog/python-sqlite3-for-small-scripts)
 * [How Python pathlib Made My File Scripts Easier to Read](https://tonycantave.com/blog/python-pathlib-for-file-scripts)
 * [How Python Dataclasses Keep My Small Scripts Organized](https://tonycantave.com/blog/python-dataclasses-for-small-scripts)
-* [My CompTIA Cloud+ Notes on Backups, Snapshots and Recovery Objectives](https://tonycantave.com/blog/comptia-cloud-plus-backup-and-recovery-notes)
