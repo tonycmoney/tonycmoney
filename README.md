@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [How I Use Python Sets to Reconcile Two Exports in Seconds](https://tonycantave.com/blog/python-sets-reconcile-exports)
 * [A One Week Small Business Saturday Plan for Connecticut Shops](https://tonycantave.com/blog/small-business-saturday-plan-connecticut)
 * [How I Use Python Generators to Process Big Files Without Running Out of Memory](https://tonycantave.com/blog/python-generators-large-files)
 * [My CompTIA Network+ Notes on Troubleshooting DNS and DHCP](https://tonycantave.com/blog/network-plus-dns-dhcp-troubleshooting)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [How I Handle JSON Config Files in Python Without Breaking My Scripts](https://tonycantave.com/blog/python-json-config-files)
 * [How I Use Python's sqlite3 Module to Keep Small Script Data Organized](https://tonycantave.com/blog/python-sqlite3-for-small-scripts)
 * [How Python pathlib Made My File Scripts Easier to Read](https://tonycantave.com/blog/python-pathlib-for-file-scripts)
-* [How Python Dataclasses Keep My Small Scripts Organized](https://tonycantave.com/blog/python-dataclasses-for-small-scripts)
