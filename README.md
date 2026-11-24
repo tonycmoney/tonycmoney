@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [How I Sort Report Data in Python With sorted, key and itemgetter](https://tonycantave.com/blog/python-sorted-key-report-data)
 * [How Python's enumerate and zip Cleaned Up My Loops](https://tonycantave.com/blog/python-enumerate-zip-cleaner-loops)
 * [How I Use Python Sets to Reconcile Two Exports in Seconds](https://tonycantave.com/blog/python-sets-reconcile-exports)
 * [A One Week Small Business Saturday Plan for Connecticut Shops](https://tonycantave.com/blog/small-business-saturday-plan-connecticut)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [Counting Things Fast with Python's Counter and defaultdict](https://tonycantave.com/blog/python-counter-defaultdict)
 * [How I Validate Form Input in Plain JavaScript Before It Reaches the Server](https://tonycantave.com/blog/javascript-form-validation)
 * [How I Handle JSON Config Files in Python Without Breaking My Scripts](https://tonycantave.com/blog/python-json-config-files)
-* [How I Use Python's sqlite3 Module to Keep Small Script Data Organized](https://tonycantave.com/blog/python-sqlite3-for-small-scripts)
