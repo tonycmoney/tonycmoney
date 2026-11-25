@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [Hashing, Encryption and Encoding: My Security+ Notes With Python Examples](https://tonycantave.com/blog/security-plus-hashing-encryption-encoding-python)
 * [How I Sort Report Data in Python With sorted, key and itemgetter](https://tonycantave.com/blog/python-sorted-key-report-data)
 * [How Python's enumerate and zip Cleaned Up My Loops](https://tonycantave.com/blog/python-enumerate-zip-cleaner-loops)
 * [How I Use Python Sets to Reconcile Two Exports in Seconds](https://tonycantave.com/blog/python-sets-reconcile-exports)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [How I Turn Gut Feelings About AI Output Into a Scoring Rubric](https://tonycantave.com/blog/scoring-ai-output-with-rubrics)
 * [Counting Things Fast with Python's Counter and defaultdict](https://tonycantave.com/blog/python-counter-defaultdict)
 * [How I Validate Form Input in Plain JavaScript Before It Reaches the Server](https://tonycantave.com/blog/javascript-form-validation)
-* [How I Handle JSON Config Files in Python Without Breaking My Scripts](https://tonycantave.com/blog/python-json-config-files)
