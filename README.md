@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [Python f Strings for Readable Reports: How I Format Small Script Output](https://tonycantave.com/blog/python-f-strings-readable-reports)
 * [Hashing, Encryption and Encoding: My Security+ Notes With Python Examples](https://tonycantave.com/blog/security-plus-hashing-encryption-encoding-python)
 * [How I Sort Report Data in Python With sorted, key and itemgetter](https://tonycantave.com/blog/python-sorted-key-report-data)
 * [How Python's enumerate and zip Cleaned Up My Loops](https://tonycantave.com/blog/python-enumerate-zip-cleaner-loops)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [My CompTIA Network+ Notes on Troubleshooting DNS and DHCP](https://tonycantave.com/blog/network-plus-dns-dhcp-troubleshooting)
 * [How I Turn Gut Feelings About AI Output Into a Scoring Rubric](https://tonycantave.com/blog/scoring-ai-output-with-rubrics)
 * [Counting Things Fast with Python's Counter and defaultdict](https://tonycantave.com/blog/python-counter-defaultdict)
-* [How I Validate Form Input in Plain JavaScript Before It Reaches the Server](https://tonycantave.com/blog/javascript-form-validation)
