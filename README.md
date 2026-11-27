@@ -29,6 +29,7 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 
 ## Writing
 
+* [How I Handle Errors in Small Python Scripts Without Hiding Bugs](https://tonycantave.com/blog/python-error-handling-small-scripts)
 * [Python f Strings for Readable Reports: How I Format Small Script Output](https://tonycantave.com/blog/python-f-strings-readable-reports)
 * [Hashing, Encryption and Encoding: My Security+ Notes With Python Examples](https://tonycantave.com/blog/security-plus-hashing-encryption-encoding-python)
 * [How I Sort Report Data in Python With sorted, key and itemgetter](https://tonycantave.com/blog/python-sorted-key-report-data)
@@ -38,4 +39,3 @@ CompTIA A+ | Network+ | Security+ | Cloud+ | CySA+
 * [How I Use Python Generators to Process Big Files Without Running Out of Memory](https://tonycantave.com/blog/python-generators-large-files)
 * [My CompTIA Network+ Notes on Troubleshooting DNS and DHCP](https://tonycantave.com/blog/network-plus-dns-dhcp-troubleshooting)
 * [How I Turn Gut Feelings About AI Output Into a Scoring Rubric](https://tonycantave.com/blog/scoring-ai-output-with-rubrics)
-* [Counting Things Fast with Python's Counter and defaultdict](https://tonycantave.com/blog/python-counter-defaultdict)
